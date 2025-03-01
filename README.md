@@ -1,5 +1,7 @@
 # Avignon-Baseball-Stadium-Reconstruction-Project-
 Managed the reconstruction of the Avignon Baseball Stadium (Budget $536M), leveraging WBS and MS Project to optimize scheduling, allocation of resources, and cost control, ensuring 100% completion ahead of schedule and within budget. 
+
+
 Project Details 
 The Work Breakdown Structure (WBS) is a systematic, hierarchical decomposition of a project's deliverables, tasks, and activities. The rationale behind employing the WBS framework lies in its ability to delineate major project components effectively. In this project, critical deliverables included roof construction, stadium infrastructure, seating arrangement, and baseball field development. The WBS method facilitated the segmentation of intricate elements, streamlining execution. For instance, the seating arrangement, a complex deliverable, was strategically divided into three distinct work packages:
 
